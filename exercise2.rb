@@ -25,3 +25,6 @@ puts "My age is #{age}"
 
 result = 45628 * 7839
 puts "The result is #{result}"
+
+#4.What is the value of the expression (10 < 20 && 30 < 20) || !(10 == 11)
+puts (10 < 20 && 30 < 20) || !(10 == 11)
